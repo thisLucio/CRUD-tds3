@@ -1,4 +1,4 @@
-﻿Repositorio Lucio - Teste de Crud
+﻿Repositorio Lucio - Crud
 
 O projeto está com poucos commits, porque fiz local e upei apenas o projeto final.
 O arquivo inicial é o "login.php", eu tentei autenticar o Login mas não deu certo.
